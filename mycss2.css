@@ -1,0 +1,44 @@
+/*
+ * simdevJS - temelset
+ *
+ * Copyright (c) 2014 Kazuhiko Arase
+ *
+ * URL: http://www.d-project.com/
+ *
+ * Licensed under the MIT license:
+ *  http://www.opensource.org/licenses/mit-license.php
+ */
+
+.simcir-basicset-dc {
+  fill: #aacccc;
+}
+
+.simcir-basicset-switch {
+  fill: #aaccff;
+}
+
+.simcir-basicset-switch-button-pressed {
+  fill: #bb99cc;
+}
+
+.simcir-basicset-symbol {
+  stroke: #101010;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  fill: none;
+}
+
+.simcir-basicset-osc {
+  fill: #aacccc;
+}
+
+.simcir-basicset-knob {
+  stroke: none;
+  fill: #121212;
+}
+
+.simcir-basicset-knob-mark {
+  stroke: #000;
+  stroke-width: 2;
+}
